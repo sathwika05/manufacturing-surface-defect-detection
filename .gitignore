@@ -1,0 +1,16 @@
+# Dataset (reproducible from the public NEU-DET source)
+data/
+NEU-DET.zip
+
+# Intermediate training checkpoints (final model is tracked)
+artifacts/model/checkpoint_*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

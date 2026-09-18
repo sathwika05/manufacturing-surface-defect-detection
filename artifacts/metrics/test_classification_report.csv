@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+Crazing,0.9524,1.0,0.9756,60.0
+Inclusion,0.9344,0.95,0.9421,60.0
+Patches,1.0,1.0,1.0,60.0
+Pitted Surface,1.0,0.8333,0.9091,60.0
+Rolled In Scale,0.8,1.0,0.8889,60.0
+Scratches,0.9412,0.8,0.8649,60.0
+accuracy,0.9306,0.9306,0.9306,0.9306
+macro avg,0.938,0.9306,0.9301,360.0
+weighted avg,0.938,0.9306,0.9301,360.0

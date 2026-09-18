@@ -1,0 +1,13 @@
+image_name,actual_class,predicted_class,confidence,correct
+patches_275.jpg,patches,patches,0.9986,True
+crazing_271.jpg,crazing,crazing,0.9889,True
+rolled-in_scale_271.jpg,rolled-in_scale,rolled-in_scale,0.7051,True
+pitted_surface_250.jpg,pitted_surface,pitted_surface,0.7824,True
+pitted_surface_290.jpg,pitted_surface,crazing,0.805,False
+scratches_244.jpg,scratches,scratches,0.9724,True
+crazing_272.jpg,crazing,crazing,0.9992,True
+patches_273.jpg,patches,patches,1.0,True
+crazing_274.jpg,crazing,crazing,0.9968,True
+rolled-in_scale_249.jpg,rolled-in_scale,rolled-in_scale,0.5629,True
+scratches_292.jpg,scratches,scratches,0.9991,True
+inclusion_252.jpg,inclusion,scratches,0.6891,False

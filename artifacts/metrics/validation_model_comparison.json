@@ -1,0 +1,25 @@
+{
+  "candidates": [
+    {
+      "model": "Stage 1 (feature extraction)",
+      "val_accuracy": 0.9861,
+      "val_loss": 0.1059,
+      "val_precision_macro": 0.9867,
+      "val_recall_macro": 0.9861,
+      "val_f1_macro": 0.9861,
+      "path": "artifacts/model/checkpoint_stage1.keras"
+    },
+    {
+      "model": "Stage 2 (fine-tuned)",
+      "val_accuracy": 0.9896,
+      "val_loss": 0.0549,
+      "val_precision_macro": 0.9899,
+      "val_recall_macro": 0.9896,
+      "val_f1_macro": 0.9896,
+      "path": "artifacts/model/checkpoint_finetuned.keras"
+    }
+  ],
+  "selected_model": "Stage 2 (fine-tuned)",
+  "selection_metric": "validation accuracy (macro F1 tie-breaker)",
+  "evaluated_at_utc": "2026-09-18T02:31:21.697460+00:00"
+}
